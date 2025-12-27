@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "Active",
+    "Description": "Payment is currently active and will be processed as scheduled.",
+    "CreatedAt": "2025-11-11T14:00:00Z"
+  },
+  {
+    "Name": "Paused",
+    "Description": "Payment is temporarily paused and will not be processed until resumed.",
+    "CreatedAt": "2025-11-11T14:05:00Z"
+  },
+  {
+    "Name": "Cancelled",
+    "Description": "Payment has been cancelled and will no longer be processed.",
+    "CreatedAt": "2025-11-11T14:10:00Z"
+  },
+  {
+    "Name": "Failed",
+    "Description": "Payment failed due to an error or insufficient funds.",
+    "CreatedAt": "2025-11-11T14:15:00Z"
+  },
+  {
+    "Name": "Completed",
+    "Description": "Payment has been successfully completed.",
+    "CreatedAt": "2025-11-11T14:20:00Z"
+  }
+]

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\bin\Debug\net8.0\PaymentScheduler.Domain.deps.json
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\bin\Debug\net8.0\PaymentScheduler.Domain.runtimeconfig.json
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\bin\Debug\net8.0\PaymentScheduler.Domain.dll
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\bin\Debug\net8.0\PaymentScheduler.Domain.pdb
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.dll
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\refint\PaymentScheduler.Domain.dll
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.pdb
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.genruntimeconfig.cache
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\ref\PaymentScheduler.Domain.dll
+C:\Users\User\source\repos\PaymentScheduler\PaymentScheduler.Domain\obj\Debug\net8.0\PaymentScheduler.Domain.sourcelink.json

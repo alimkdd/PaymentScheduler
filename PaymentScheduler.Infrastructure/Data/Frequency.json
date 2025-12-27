@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Daily",
+    "Description": "Payment will be processed every day.",
+    "CreatedAt": "2025-11-11T14:30:00Z"
+  },
+  {
+    "Name": "Weekly",
+    "Description": "Payment will be processed once every week.",
+    "CreatedAt": "2025-11-11T14:35:00Z"
+  },
+  {
+    "Name": "BiWeekly",
+    "Description": "Payment will be processed once every two weeks.",
+    "CreatedAt": "2025-11-11T14:40:00Z"
+  },
+  {
+    "Name": "Monthly",
+    "Description": "Payment will be processed once every month.",
+    "CreatedAt": "2025-11-11T14:45:00Z"
+  },
+  {
+    "Name": "Quarterly",
+    "Description": "Payment will be processed once every three months.",
+    "CreatedAt": "2025-11-11T14:50:00Z"
+  },
+  {
+    "Name": "Annually",
+    "Description": "Payment will be processed once every year.",
+    "CreatedAt": "2025-11-11T14:55:00Z"
+  }
+]

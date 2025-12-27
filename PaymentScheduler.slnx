@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PaymentScheduler.API/PaymentScheduler.API.csproj" />
+  <Project Path="PaymentScheduler.Application/PaymentScheduler.Application.csproj" />
+  <Project Path="PaymentScheduler.Domain/PaymentScheduler.Domain.csproj" />
+  <Project Path="PaymentScheduler.Infrastructure/PaymentScheduler.Infrastructure.csproj" />
+  <Project Path="PaymentScheduler.XUnit/PaymentScheduler.XUnit.csproj" />
+</Solution>

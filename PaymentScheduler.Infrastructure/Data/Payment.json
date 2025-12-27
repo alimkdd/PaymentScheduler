@@ -1,0 +1,53 @@
+[
+  {
+    "UserSid": "89A71D20-2447-4B1C-822D-51D703B86655",
+    "PayeeName": "Ali Mokdad",
+    "Amount": 250.75,
+    "Title": "Monthly Rent",
+    "Description": "Rent payment for apartment",
+    "DestinationAccount": "1234567890",
+    "FrequencyId": 2,
+    "StatusId": 1,
+    "StartDate": "2025-11-01T00:00:00Z",
+    "NextExecutionDate": "2025-12-01T00:00:00Z",
+    "LastExecutionDate": "2025-11-01T00:00:00Z",
+    "ConsecutiveFailures": 0,
+    "LastFailureReason": null,
+    "CreatedAt": "2025-10-25T12:00:00Z",
+    "UpdatedAt": null
+  },
+  {
+    "UserSid": "4BCB4A89-E640-40B3-994E-73699ECD530F",
+    "PayeeName": "Karam Naim",
+    "Amount": 120.00,
+    "Title": "Gym Membership",
+    "Description": "Monthly gym subscription",
+    "DestinationAccount": "9876543210",
+    "FrequencyId": 4,
+    "StatusId": 1,
+    "StartDate": "2025-11-05T00:00:00Z",
+    "NextExecutionDate": "2025-12-05T00:00:00Z",
+    "LastExecutionDate": "2025-11-05T00:00:00Z",
+    "ConsecutiveFailures": 0,
+    "LastFailureReason": null,
+    "CreatedAt": "2025-10-30T09:15:00Z",
+    "UpdatedAt": null
+  },
+  {
+    "UserSid": "22713F1A-9963-432E-91B0-51D4376AA007",
+    "PayeeName": "Hasan Hamzeh",
+    "Amount": 75.50,
+    "Title": "Electric Bill",
+    "Description": "Monthly electricity payment",
+    "DestinationAccount": "7309658956",
+    "FrequencyId": 6,
+    "StatusId": 1,
+    "StartDate": "2025-11-03T00:00:00Z",
+    "NextExecutionDate": "2025-12-03T00:00:00Z",
+    "LastExecutionDate": "2025-11-03T00:00:00Z",
+    "ConsecutiveFailures": 0,
+    "LastFailureReason": null,
+    "CreatedAt": "2025-10-28T16:30:00Z",
+    "UpdatedAt": null
+  }
+]
