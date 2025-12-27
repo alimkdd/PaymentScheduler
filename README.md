@@ -1,4 +1,4 @@
-🔁 Recurring Payment Scheduler Feature
+🔁 Recurring Payment Scheduler
 Overview
 
 The Recurring Payment Scheduler allows users to automate recurring transactions, such as monthly rent, subscriptions, or other scheduled payments.
